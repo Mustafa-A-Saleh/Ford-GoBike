@@ -4,7 +4,7 @@
 
 ## Dataset
 
-Ford GoBike is a bike-sharing system that allows people to use bikes as a transportation mean through different stations in San Francisco Bay Area. Data has 183412 observation regarding different features such as (Duration_min, start_station_name, end_station_name, user_type, member_gender) 
+Ford GoBike is a bike-sharing system that allows people to use bikes as a transportation mean through different stations in San Francisco Bay Area. Our dataset has 183412 observations regarding different features such as (Duration_min, start_station_name, end_station_name, user_type, member_gender) 
 
 Before starting exploration, I've made some adjustments such as: Dropping unnecessary columns and null values , add column for age and Change duration to minutes. That lead to decrease number of columns to 10 and observations to 174952. 
 
